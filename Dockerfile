@@ -1,0 +1,1 @@
+FROM stremio/server:latest
